@@ -3,6 +3,7 @@
 ![sequelize](https://github.com/kathryntoney/kathryntoney/assets/127783825/e9008571-952c-4aa5-9dbd-c5a3e4fcdcf8)
 ![openai](https://github.com/kathryntoney/kathryntoney/assets/127783825/c8f7b09d-8c89-485a-ab8b-ef362ee165f7)
 ![css](https://github.com/kathryntoney/kathryntoney/assets/127783825/059ce958-384c-4d40-92ae-292e11005750)
+![redux](https://github.com/kathryntoney/kathryntoney/assets/127783825/07ffa4b4-e1f7-4f46-8cf2-a09abea6cf2c)
 
 
 
