@@ -5,6 +5,9 @@
 ![css](https://github.com/kathryntoney/kathryntoney/assets/127783825/059ce958-384c-4d40-92ae-292e11005750)
 ![redux](https://github.com/kathryntoney/kathryntoney/assets/127783825/07ffa4b4-e1f7-4f46-8cf2-a09abea6cf2c)
 ![cloudinary](https://github.com/kathryntoney/kathryntoney/assets/127783825/0febccf6-0dd0-40ab-949f-13dd175131a3)
+![restfulapi](https://github.com/kathryntoney/kathryntoney/assets/127783825/cab9a21d-055e-4ad1-9744-0ed331fca54b)
+![firebase](https://github.com/kathryntoney/kathryntoney/assets/127783825/13a6c03f-966b-4b2a-b31e-6f716345f182)
+![beekeeper](https://github.com/kathryntoney/kathryntoney/assets/127783825/5d6f12f0-31cb-4d4f-b3e8-965842763d34)
 
 
 
